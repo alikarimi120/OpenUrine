@@ -115,13 +115,5 @@ This study was reviewed and approved by the Ethics Committee of Shahid Beheshti 
 
 ---
 
-## 🙏 Acknowledgments
-
-The authors acknowledge the use of AI-assisted tools, including ChatGPT (OpenAI) and Grammarly, for improving manuscript clarity and readability. A part of this work was extracted from the thesis by Mehdi Alizadeh at the School of Medicine, Shahid Beheshti University of Medical Sciences (Registration No: 43011137).
-
----
 
 **Keywords:** Urinary sediment analysis, Deep learning, Object detection, YOLOv12, Multi-head architecture, Self-supervised learning, Medical image analysis, Clinical diagnostics
-
-
-این فایل رو می‌تونید مستقیماً توی ریپازیتوری GitHub به عنوان `README.md` یا `DATASET.md` قرار بدید. همه چیز آماده استفاده و فرمت‌بندی شده است! 🚀
