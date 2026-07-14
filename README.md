@@ -107,13 +107,16 @@ Sample codes, experimental results, and pre-trained models are available in this
 
 If you use the OpenUrine dataset in your research, please cite:
 ```bibtex
-@article{alizadeh2025openurine,
-  title={A Multi-Head YOLOv12 with Self-Supervised Pretraining for Urinary Sediment Particle Detection},
+@article{alizadeh2025multi,
+  title={A multi-head YOLOv12 with self-supervised pretraining for urinary sediment particle detection},
   author={Alizadeh, Mehdi and Karimi, Ali and Barikbin, Mohammad Javad and Movahed, Ali and Akbarzadeh, Samad and Sirati-Sabet, Majid and Akhaee, Mohammad Ali},
-  journal={[Journal Name]},
-  year={2025}
+  journal={Scientific Reports},
+  volume={15},
+  number={1},
+  pages={41347},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
-
 ---
 
 
